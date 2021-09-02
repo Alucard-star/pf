@@ -343,6 +343,10 @@ a:hover {
 	height: 32px;
 }
 
+.icono img{
+	width: 50
+	height: 100
+}
 .navbar .logo-text {
 	color: #ffffff;
 	font-weight: 700;
